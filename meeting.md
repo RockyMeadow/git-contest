@@ -4,6 +4,7 @@
  - Sang
  - Maxence
  - Tuan
+ - Brian
  - Louis
 
 Total : 5
