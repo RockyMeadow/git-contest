@@ -1,3 +1,8 @@
 Who will join the meeting ?
 
-Total of attendees : 0
+ - Tuan
+ - Mistake
+ - Benoit
+ - Sang
+
+Total of attendees : 4
